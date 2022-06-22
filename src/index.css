@@ -1,0 +1,11 @@
+body {
+  margin: 40px 0 0 40px;
+  font: 18px/24px Arial, Helvetica, sans-serif;
+}
+.nav-link {
+  margin: 0 20px;
+}
+.active {
+  color: #bf1313;
+  margin: 0 20px;
+}
